@@ -12,3 +12,4 @@
 - Drag and drop each card
 - Clicking on each card will open it in dialog box
 - Filter functionality to find specific item in the swim lane.
+- Be able to add another swim lane
